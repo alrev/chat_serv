@@ -1,0 +1,8 @@
+[package]
+name = "chat_serv"
+version = "0.1.0"
+authors = ["alrev"]
+edition = "2018"
+
+[dependencies]
+mio = "0.6"
